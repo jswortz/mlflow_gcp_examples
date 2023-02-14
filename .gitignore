@@ -12,3 +12,4 @@ metastore_db/log/logmirror.ctrl
 metastore_db/log/README_DO_NOT_TOUCH_FILES.txt
 metastore_db/README_DO_NOT_TOUCH_FILES.txt
 metastore_db/seg0/README_DO_NOT_TOUCH_FILES.txt
+hive/databricks_vertex.db/kaggle_retail_dataset_r848/part-00000-f16752fb-5af4-46ec-bf2d-a69da0ba480c-c000
